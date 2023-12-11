@@ -1,40 +1,43 @@
 .u-section-1 {
-  background-image: url("images/232800ea0c27caa16c7a703e8ea29298f8672be4624adf7d7a4514468ac2db2b3c346bdbbe07272bf5f75fd8ed70b75fda023f35725a937e40ad71_1280.jpg");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/TVOShop.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 460px;
+  min-height: 875px;
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Poppins;
   text-transform: uppercase;
+  font-family: Poppins;
   font-weight: 700;
   margin: 60px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 379px;
+    min-height: 650px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 290px;
+    min-height: 552px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 218px;
+    min-height: 414px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 137px;
+    min-height: 422px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 609px;
