@@ -1,6 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/903a4a73c49f1baaa35e0963fc44c69e310ff75ba08041c3669703a54503a16fdca567fbcb9738c2c347efdc3fae893ab46e7e65ea28888e9af74e_1280.jpg");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/TVOShop.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -16,7 +15,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 721px;
+    min-height: 720px;
   }
 
   .u-section-1 .u-text-1 {
